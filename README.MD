@@ -3,9 +3,9 @@ Project built from a model, training basic concepts for the construction of stat
 
 Exercised concepts:
 
-[x] HTML5 Semantics
-[x] CSS flex-box
-[x] Class hierarchy in CSS
+- [x] HTML5 Semantics
+- [x] CSS flex-box
+- [x] Class hierarchy in CSS
 
 
 *powered by Mastertech*
